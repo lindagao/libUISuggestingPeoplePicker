@@ -1,0 +1,1 @@
+UISuggestingPeoplePicker is a library for iPhone development. You can include it in your own UIViewController to present a view using which your user can add multiple phones by editing with numberpad or picking them from contacts, just like the built-in SMS app in iPhone.
